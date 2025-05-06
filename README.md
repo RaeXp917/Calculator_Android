@@ -22,7 +22,7 @@ This is an Android calculator application developed in Kotlin. It supports basic
 
 ## App Preview
 
- ![Calculator App Screenshot](assets/preview.jpg)
+ ![Calculator App Screenshot](assets/preview.JPG)
 
 ## How to Build/Run
 
