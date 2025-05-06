@@ -20,9 +20,9 @@ This is an Android calculator application developed in Kotlin. It supports basic
 *   XML for Layouts
 *   View Binding
 
-## Gif Preview
+## App Preview
 
- ![Calculator App Gif](preview.gif)
+ ![Calculator App Screenshot](assets/preview.jpg)
 
 ## How to Build/Run
 
