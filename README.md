@@ -29,3 +29,9 @@ This is an Android calculator application developed in Kotlin. It supports basic
 1.  Clone this repository: `git clone https://github.com/RaeXp917/Calculator.git`
 2.  Open the project in Android Studio.
 3.  Build and run on an Android device or emulator.
+
+## APK Release
+
+If you prefer not to build it yourself, you can download the non-licensed APK version from the [Releases](https://github.com/RaeXp917/Calculator/releases) section and install it directly on your Android device.
+
+⚠️ **Disclaimer:** This APK is provided for testing and educational purposes only. Use it at your own risk.
