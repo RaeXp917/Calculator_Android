@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="calculator_background">#343434</color>
-    <color name="button_gray">#808080</color>
+    <color name="calculator_background">#E0E0E0</color>
+    <color name="display_background">#F5F5F5</color>
+    <color name="button_background_normal">#8C8C8C</color>
+    <color name="button_background_special_accent">#F9F9F9</color> <!-- For Equals button, if you want it different in light mode -->
+    <color name="button_background_delete_accent">#524F4F</color> <!-- For CE button, if you want it different in light mode -->
+    <color name="text_color_normal">#000000</color>
+    <color name="text_color_display">#000000</color>
+    <color name="text_color_equals_accent">#E8CD10</color> <!-- Specific for Equals button text -->
+    <color name="text_color_delete_accent">#9C0404</color> <!-- Specific for CE button text -->
 </resources>

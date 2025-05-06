@@ -1,7 +1,12 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.Calculator" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
-    </style>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="calculator_background">#343434</color>
+    <color name="display_background">#4A4A4A</color>
+    <color name="button_background_normal">#808080</color> <!-- Your current button gray -->
+    <color name="button_background_special_accent">#F9F9F9</color> <!-- For Equals button, keeping it light as per your XML -->
+    <color name="button_background_delete_accent">#524F4F</color> <!-- For CE button, keeping it as per your XML -->
+    <color name="text_color_normal">#FFFFFF</color>
+    <color name="text_color_display">#FFFFFF</color>
+    <color name="text_color_equals_accent">#E8CD10</color> <!-- Specific for Equals button text -->
+    <color name="text_color_delete_accent">#9C0404</color> <!-- Specific for CE button text -->
 </resources>
