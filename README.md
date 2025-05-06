@@ -11,6 +11,7 @@ This is an Android calculator application developed in Kotlin. It supports basic
 *   Decimal number input
 *   Backspace and Clear Entry (CE) functionality
 *   Responsive user interface
+*   Support for light/dark mode
 
 ## Development Tools
 
