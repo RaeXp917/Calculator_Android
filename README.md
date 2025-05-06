@@ -12,13 +12,10 @@ This is an Android calculator application developed in Kotlin. It supports basic
 *   Backspace and Clear Entry (CE) functionality
 *   Responsive user interface
 
-## Technologies Used
+## Development Tools
 
-*   Kotlin
-*   Android SDK
-*   Android Studio
-*   XML for Layouts
-*   View Binding
+* **Language:** Kotlin
+* **IDE:** Android Studio
 
 ## App Preview
 
