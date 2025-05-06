@@ -1,4 +1,4 @@
-# My Android Calculator
+# Android Calculator
 
 This is an Android calculator application developed in Kotlin. It supports basic arithmetic operations, percentage calculations, and correctly evaluates expressions based on the order of operations (PEMDAS/BODMAS), including handling parentheses.
 
